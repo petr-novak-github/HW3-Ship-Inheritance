@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-ship-inheritance\stuff\DU3-ship\bin\Debug\DU3-ship.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-ship-inheritance\stuff\DU3-ship\bin\Debug\DU3-ship.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-ship-inheritance\stuff\DU3-ship\bin\Debug\DU3-ship.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-ship-inheritance\stuff\DU3-ship\obj\Debug\DU3-ship.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-ship-inheritance\stuff\DU3-ship\obj\Debug\DU3-ship.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-ship-inheritance\stuff\DU3-ship\obj\Debug\DU3-ship.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\15-ucim-se-2021-02-11\DU-3-ship-inheritance\stuff\DU3-ship\obj\Debug\DU3-ship.pdb
